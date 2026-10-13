@@ -1,2 +1,5 @@
-console.log("Feature branch version");
+function login() {
+  return true;
+}
 
+module.exports = login;
